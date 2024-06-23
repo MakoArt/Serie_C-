@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4244: 'inicializando': conversión de '_Ty' a '_Ty2'; posible pérdida de datos
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4244:             _Ty2=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(250,54):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	D:\CursosParaYouTube\23.Maps\23.Maps\main.cpp(8,41):
+  	Vea la referencia a la creación de una instancia de la función plantilla "std::pair<const std::string,float>::pair<const char(&)[7],double,0>(_Other1,_Other2 &&) noexcept(false)" que se está compilando
+          with
+          [
+              _Other1=const char (&)[7],
+              _Other2=double
+          ]
+  		D:\CursosParaYouTube\23.Maps\23.Maps\main.cpp(8,39):
+  		vea la primera referencia a “std::pair<const std::string,float>::pair” en “main”
+  
+  23.Maps.vcxproj -> D:\CursosParaYouTube\23.Maps\x64\Debug\23.Maps.exe

@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\CursosParaYouTube\1.Variables\1.Variables\main.cpp(11,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  1.Variables.vcxproj -> D:\CursosParaYouTube\1.Variables\x64\Debug\1.Variables.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CursosParaYouTube\\20.PunterosInteligentes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86F3C0D6-E539-4DEB-9D3A-32F5AE280C56}|20.PunterosInteligentes\\20.PunterosInteligentes.vcxproj|D:\\CursosParaYouTube\\20.PunterosInteligentes\\20.PunterosInteligentes\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86F3C0D6-E539-4DEB-9D3A-32F5AE280C56}|20.PunterosInteligentes\\20.PunterosInteligentes.vcxproj|solutionrelative:20.PunterosInteligentes\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\CursosParaYouTube\\20.PunterosInteligentes\\20.PunterosInteligentes\\main.cpp",
+              "RelativeDocumentMoniker": "20.PunterosInteligentes\\main.cpp",
+              "ToolTip": "D:\\CursosParaYouTube\\20.PunterosInteligentes\\20.PunterosInteligentes\\main.cpp",
+              "RelativeToolTip": "20.PunterosInteligentes\\main.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T16:30:48.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

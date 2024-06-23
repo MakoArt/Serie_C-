@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CursosParaYouTube\\27.HacerContador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8EF3C9-5471-4F6D-918C-37C6765737D5}|27.HacerContador\\27.HacerContador.vcxproj|D:\\CursosParaYouTube\\27.HacerContador\\27.HacerContador\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B8EF3C9-5471-4F6D-918C-37C6765737D5}|27.HacerContador\\27.HacerContador.vcxproj|solutionrelative:27.HacerContador\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\CursosParaYouTube\\27.HacerContador\\27.HacerContador\\main.cpp",
+              "RelativeDocumentMoniker": "27.HacerContador\\main.cpp",
+              "ToolTip": "D:\\CursosParaYouTube\\27.HacerContador\\27.HacerContador\\main.cpp",
+              "RelativeToolTip": "27.HacerContador\\main.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-27T19:24:44.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

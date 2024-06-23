@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CursosParaYouTube\\8.StringMath\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5E6E06-2CE6-49B5-BDD2-15D67ED9D7A8}|8.StringMath\\8.StringMath.vcxproj|D:\\CursosParaYouTube\\8.StringMath\\8.StringMath\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C5E6E06-2CE6-49B5-BDD2-15D67ED9D7A8}|8.StringMath\\8.StringMath.vcxproj|solutionrelative:8.StringMath\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\CursosParaYouTube\\8.StringMath\\8.StringMath\\main.cpp",
+              "RelativeDocumentMoniker": "8.StringMath\\main.cpp",
+              "ToolTip": "D:\\CursosParaYouTube\\8.StringMath\\8.StringMath\\main.cpp",
+              "RelativeToolTip": "8.StringMath\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-16T18:38:52.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

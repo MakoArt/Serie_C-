@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CursosParaYouTube\\7.ArraysMultidimensionales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A39962F-887B-4F07-82A2-B82A0F8CE15E}|7.ArraysMultidimensionales\\7.ArraysMultidimensionales.vcxproj|D:\\CursosParaYouTube\\7.ArraysMultidimensionales\\7.ArraysMultidimensionales\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A39962F-887B-4F07-82A2-B82A0F8CE15E}|7.ArraysMultidimensionales\\7.ArraysMultidimensionales.vcxproj|solutionrelative:7.ArraysMultidimensionales\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\CursosParaYouTube\\7.ArraysMultidimensionales\\7.ArraysMultidimensionales\\main.cpp",
+              "RelativeDocumentMoniker": "7.ArraysMultidimensionales\\main.cpp",
+              "ToolTip": "D:\\CursosParaYouTube\\7.ArraysMultidimensionales\\7.ArraysMultidimensionales\\main.cpp",
+              "RelativeToolTip": "7.ArraysMultidimensionales\\main.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-15T20:15:00.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

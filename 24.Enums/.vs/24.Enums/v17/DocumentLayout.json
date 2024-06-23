@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CursosParaYouTube\\24.Enums\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41419848-8382-4D6E-B684-0110CAD87D0E}|24.Enums\\24.Enums.vcxproj|D:\\CursosParaYouTube\\24.Enums\\24.Enums\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41419848-8382-4D6E-B684-0110CAD87D0E}|24.Enums\\24.Enums.vcxproj|solutionrelative:24.Enums\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\CursosParaYouTube\\24.Enums\\24.Enums\\main.cpp",
+              "RelativeDocumentMoniker": "24.Enums\\main.cpp",
+              "ToolTip": "D:\\CursosParaYouTube\\24.Enums\\24.Enums\\main.cpp",
+              "RelativeToolTip": "24.Enums\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-26T19:17:08.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

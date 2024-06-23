@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CursosParaYouTube\\10.Funciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A23760A-711D-4A98-B5AE-8E007AD6CBC8}|10.Funciones\\10.Funciones.vcxproj|D:\\CursosParaYouTube\\10.Funciones\\10.Funciones\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A23760A-711D-4A98-B5AE-8E007AD6CBC8}|10.Funciones\\10.Funciones.vcxproj|solutionrelative:10.Funciones\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\CursosParaYouTube\\10.Funciones\\10.Funciones\\main.cpp",
+              "RelativeDocumentMoniker": "10.Funciones\\main.cpp",
+              "ToolTip": "D:\\CursosParaYouTube\\10.Funciones\\10.Funciones\\main.cpp",
+              "RelativeToolTip": "10.Funciones\\main.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T07:22:57.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
